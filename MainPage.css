@@ -1,0 +1,31 @@
+h1{
+    color: rgb(70, 212, 41);
+    background-color: rgb(3, 75, 53);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 20px solid crimson;
+}
+p{
+    color: rgb(78, 54, 8);
+    text-align: center;
+}
+body{
+    color: rgb(70, 212, 41);
+    background-color: rgb(159, 218, 182);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    /*line-height: 2; */
+    letter-spacing: 2px;
+    column-count: 1;
+    column-gap: 30px;
+    
+}
+ul{
+    border-bottom: 8px dashed rgb(58, 112, 45);
+
+}
+li{
+    list-style-type: none;
+}
+

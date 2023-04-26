@@ -1,0 +1,103 @@
+h1{
+    color: rgb(70, 212, 41);
+    background-color: rgb(3, 75, 53);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 20px solid rgb(49, 134, 54);
+
+}
+p{
+    color: rgb(78, 54, 8);
+    text-align: center;
+}
+body{
+    color: rgb(70, 212, 41);
+    background-color: rgb(159, 218, 182);
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    /*line-height: 2; */
+    letter-spacing: 5px;
+    column-count: 1;
+    column-gap: 50px;
+
+    background-image: url("miner_separated_01.png");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+
+
+a{
+
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    height: 100px;
+    width: 200px;
+
+}
+
+
+button{
+    background-color: red;
+    color: wheat;
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.Log-In{
+    background-color: rgb(14, 44, 17);
+    border-radius: 25px;
+}
+.login{
+    margin-left: 40px;
+}
+
+.Youtube-SeeOk{
+    background-color: rgb(68, 31, 128);
+    border-radius: 25px;
+ 
+}
+
+.News{
+    background-color: rgb(139, 83, 10);
+    border-radius: 25px;
+}
+
+.Register-Page{
+    background-color: rgb(69, 128, 30);
+    border-radius: 25px;
+}
+
+.CR-BOT{
+    background-color: red;
+    border-radius: 25px;
+}
+
+.About-Us{
+    background-color: red;
+    border-radius: 25px;
+}
+
+.SeeOk{
+    background-color: red;
+    border-radius: 25px;
+}
+
+.Cards{
+    background-color: red;
+    border-radius: 25px;
+}
+
+.Decks{
+    background-color: red;
+    border-radius: 25px;
+}

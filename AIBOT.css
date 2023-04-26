@@ -1,0 +1,34 @@
+h1{
+    color: rgb(19, 6, 77);
+    background-color: rgb(66, 184, 51);
+    font-size: 100px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 20px solid crimson;
+
+}
+p{
+    color: rgb(78, 54, 8);
+    text-align: center;
+}
+body{
+    color: rgb(70, 212, 41);
+    background-color: rgb(159, 218, 182);
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 2;
+
+    background-image: url("fc2ad70d-b026-4f1b-85f2-06417457b70b_dark_prince_chest_offer.png");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+    
+}
+
